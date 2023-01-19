@@ -1,0 +1,25 @@
+#Mundo{
+    color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 30px;
+    border: 1px solid chocolate;
+    padding: 10px;
+    background-color: blueviolet;
+    text-align: center;
+}
+
+#Mundo:hover{
+    background-color: bisque;
+    color:black;
+    transition: 1.5s;
+}
+
+#Noite{
+    color: aqua;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 30px;
+    border: 1px solid chocolate;
+    padding: 10px;
+    background-color: blueviolet;
+    text-align: center;
+}
